@@ -7,39 +7,8 @@ const testimonials = [
     name: "Fadhel",
     avatar: "F",
     title: "Software Engineer",
-    description: "I built that by watching video only"
+    description: "Great AI tool"
   },
-  {
-    name: "Fadhel",
-    avatar: "F",
-    title: "Software Engineer",
-    description: "I built that by watching video only"
-  },
-  {
-    name: "Fadhel",
-    avatar: "F",
-    title: "Software Engineer",
-    description: "I built that by watching video only"
-  },
-  {
-    name: "Fadhel",
-    avatar: "F",
-    title: "Software Engineer",
-    description: "I built that by watching video only"
-  },
-  {
-    name: "Fadhel",
-    avatar: "F",
-    title: "Software Engineer",
-    description: "I built that by watching video only"
-  },
-  {
-    name: "Fadhel",
-    avatar: "F",
-    title: "Software Engineer",
-    description: "I built that by watching video only"
-  },
-
 ]
 
 export const LandingContent = () => {
