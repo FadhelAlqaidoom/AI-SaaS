@@ -7,7 +7,7 @@ const testimonials = [
     name: "Fadhel",
     avatar: "F",
     title: "Software Engineer",
-    description: "Great AI tool"
+    description: "What a tool!"
   },
 ]
 
